@@ -1,4 +1,4 @@
-# Inquisitors-Web-Developmen
+# Inquisitors-Web-Development
 Inquisitors Society Website
 
 A 3D, responsive website for the Inquisitors Society at the University of Engineering and Technology (UET), Lahore. It presents what the society does, the events it has run since August 2025, and its 2026 internship program.
